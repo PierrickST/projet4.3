@@ -684,7 +684,7 @@ label,
 a {
   font-family: "helvetica";
   font-weight: bold;
-  color: black !important;
+  color: black;
 }
 
 .container {
@@ -1260,4 +1260,8 @@ textarea {
 }
 .formulaire {
   display: none;
+}
+
+.citation {
+  color: #595959;
 }
