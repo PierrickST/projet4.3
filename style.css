@@ -805,7 +805,7 @@ h4 {
 }
 
 .bgc-whitep2 {
-  background-color: #b2b1b1;
+  background-color: white;
 }
 input {
   border: none;
@@ -816,7 +816,7 @@ input {
 }
 
 .bgc-atomic-tangerine {
-  background-color: #ffa406fe;
+  background-color: #f3976c;
 }
 
 .buttonp2 {
@@ -824,7 +824,7 @@ input {
 }
 
 .buttonp2orange {
-  background-color: #ffa406fe;
+  background-color: #f3976c;
   border-radius: 40px;
   padding-top: 12px;
   padding-bottom: 12px;
@@ -935,6 +935,8 @@ input {
   margin: auto;
   border-radius: 5px;
   height: 30px;
+  border-color: black;
+  border: solid 2px;
 }
 
 textarea {
