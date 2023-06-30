@@ -13,8 +13,8 @@ button {
   outline: none !important;
 }
 
-a:focus,
-button:focus {
+a:focus-visible,
+button:focus-visible {
   border: black solid 2px;
   border-radius: 5px;
   transition: none;
